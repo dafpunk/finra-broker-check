@@ -1,6 +1,6 @@
 # finra-broker-check
 
-Programmatically run searches against FINRA's Brokercheck database with this API wrapper. I didn't see any documentation for their API, so I figured I'd try my hand at making my own wrapper for their search tool. Users are able to run queries using the BrokerCheck API to look up Firms as well as Registered and Licensed Reps. 
+Programmatically runs searches against FINRA's Brokercheck database with this API wrapper. Users are able to run queries using the BrokerCheck API to look up Firms as well as Registered and Licensed Reps. 
 
 <strong>Prior to performing any searches against FINRA's Broker Check API, be sure to read the Broker Check Terms of Use/Agreement</strong> which can be found here to ensure you are in compliance with their terms found on the actual Broker Check site: https://brokercheck.finra.org/
 
